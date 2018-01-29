@@ -1,0 +1,3 @@
+[
+	{ "keys": ["Ctrl+shift+b"], "command": "reindent" },
+]
